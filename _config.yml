@@ -1,0 +1,14 @@
+layout_spectrum: 0.9623656
+typography_spectrum: 0.05017921
+color:
+  saturation: 0.3936031
+  lightness: 0.04550239
+  brandStrength: 0.6503407
+  rhythmicContrast: 0.9776961
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Polarlys Studio
