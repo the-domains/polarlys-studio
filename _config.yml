@@ -1,3 +1,7 @@
+name: Polarlys Studio
+favicon: null
+layout_spectrum: 0.9441
+typography_spectrum: 0.61917
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3936031
-  brandStrength: 0.6503407
-  rhythmicContrast: 0.9776961
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  lightness: 0.04550239
-typography_spectrum: 0.2462406
-layout_spectrum: 0.6929824
-name: Polarlys Studio
+    - '#47609d'
+    - '#000000'
+    - '#005555'
+    - '#000080'
+    - '#404080'
+  brandStrength: 0.6875
+  lightness: 0.25
+  saturation: 0.4375
+  rhythmicContrast: 1
+purpose: []
